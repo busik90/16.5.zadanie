@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Praca w różnych środowiskach",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --env development",
+    "build": "webpack --env production"
   },
   "keywords": [
     "Webpack"
