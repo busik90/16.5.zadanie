@@ -1,0 +1,21 @@
+{
+  "name": "16.5.Konfiguracja_per_srodowisko",
+  "version": "1.0.0",
+  "description": "Praca w różnych środowiskach",
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [
+    "Webpack"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pawelbus/16.5.zadanie.git"
+  }
+}
